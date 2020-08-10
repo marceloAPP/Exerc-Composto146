@@ -37,12 +37,6 @@ namespace ExercPoposto_146
             {
                 Console.WriteLine(e.Message);
             }
-
-
-
-
-
-
         }
     }
 }
